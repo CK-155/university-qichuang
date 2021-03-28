@@ -10,7 +10,7 @@
 ![P4](https://github.com/CK-155/university-qichuang/blob/Photo/4.png)  
 * 双击左侧地址（如有多项可依次尝试），双击下方栏内Value值便可修改阳光数值。  
 ![P5](https://github.com/CK-155/university-qichuang/blob/Photo/5.png)  
-* 但这个地址只是临时的，每次游戏重新启动时都会变动，所以我们要找到阳光值的基址以绝后患。  
+* 但这个地址只是临时的，每次游戏重新启动时都会变动，所以我们要找到基址和阳光数对应的偏移量。  
 * 右击该地址栏后选择Find out what accesses this address  
 ![P6](https://github.com/CK-155/university-qichuang/blob/Photo/6.png)  
 * （如果点开后是空白，将PVZ放前台再回来就有了）  
@@ -33,4 +33,5 @@
 ![P13](https://github.com/CK-155/university-qichuang/blob/Photo/13.png)  
 * 使用指针便可修改阳光数。  
   
+  ***  
 2021.3.27 - A404 - get
