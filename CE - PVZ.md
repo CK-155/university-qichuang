@@ -33,5 +33,5 @@
 ![P13](https://github.com/CK-155/university-qichuang/blob/Photo/13.png)  
 * 使用指针便可修改阳光数。  
   
-  ***  
+* * *
 2021.3.27 - A404 - get
